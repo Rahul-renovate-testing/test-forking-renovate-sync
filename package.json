@@ -1,5 +1,6 @@
 {
   "dependencies": {
-    "xmldoc": "2.0.2"
+    "xmldoc": "2.0.2",
+    "chalk": "5.6.0"
   }
 }
